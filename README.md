@@ -33,5 +33,5 @@ Just It Scraps The Movie Links From That Particular Website
     - On Linux and Git Bash: `source .venv/bin/activate`
 
 5. Run `uv pip install -r requirements.txt`
-6. Run `python main.py`
+6. Run `python LinkScrapper.py`
 
