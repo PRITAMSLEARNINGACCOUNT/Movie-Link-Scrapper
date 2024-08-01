@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# Do not ignore the .gitignore file itself
+!.gitignore
+
+# Do not ignore specific Python files
+!LinkScrapper.py
+!README.md
+!requirements.txt
