@@ -1,3 +1,5 @@
+# Now This Project Is Down As I Am Not Using Any Type Of Captcha Resolver Service But The Website From Which This Project Is Taking The Links Of The Movies Is Now Using Cloudflare Turnstile Captcha.Still You Can Use It To Skill Up Yourself With Python Selenium(Only For Beginners)
+
 # Movie-Link-Scrapper
 
 This Is A Repository Containing Selenium Practice Project Or A Hobby Project Maybe But The Real Thing Is It Can Scrap
@@ -12,6 +14,7 @@ Just It Scraps The Movie Links From That Particular Website
 - This Program Is Not For Downloading Any Kind Of Pirated Content
 - This Program May Not Work When You Are Trying To Run It Because The Website May Change Its Structure Or The Website
   May Be Down And I Am Not Going To Maintain This Program As An Official Project As It's Just A Hobby Project.
+
 
 ### How To Use -
 
@@ -29,9 +32,8 @@ Just It Scraps The Movie Links From That Particular Website
 
 4. Load the virtual environment
 
-    - On Windows Terminal: `.venv\Scripts\activate`
-    - On Linux and Git Bash: `source .venv/bin/activate`
+   - On Windows Terminal: `.venv\Scripts\activate`
+   - On Linux and Git Bash: `source .venv/bin/activate`
 
 5. Run `uv pip install -r requirements.txt`
 6. Run `python LinkScrapper.py`
-
